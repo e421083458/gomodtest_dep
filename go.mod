@@ -1,4 +1,4 @@
-module gomodtest_dep
+module github.com/e421083458/gomodtest_dep
 
 require (
 	github.com/e421083458/gomodtest_base v1.0.1
