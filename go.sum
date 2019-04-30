@@ -1,0 +1,6 @@
+github.com/e421083458/gomodtest_base v1.0.1 h1:Tx8BKeuNOfzrzYjxwJJ4dJTiUjK4ZAPJ5gvomuXVDpw=
+github.com/e421083458/gomodtest_base v1.0.1/go.mod h1:QDm1T44sl30dcuEks74zzgPcedtFf8/hcDmaxlSIfjo=
+github.com/jianfengye/collection v0.0.0-20190426092112-28c4a03f0c86 h1:wpwSifyPBHD1JsGfe3AL1cIYuC4OkI7JmEUyrIexphU=
+github.com/jianfengye/collection v0.0.0-20190426092112-28c4a03f0c86/go.mod h1:T33ep8mG56L9FRBGzJqdp+Urs6Pa1KHkPvwXRiCbjsA=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
